@@ -44,7 +44,7 @@ TBD
 
 - [ALKSNIS dependency treebank](https://github.com/UniversalDependencies/UD_Lithuanian-ALKSNIS) The Lithuanian dependency treebank ALKSNIS v3.0 (Vytautas Magnus University).
 
-
+### Tools and models
 
 #### Part-of-Speech tagging and dependency parsing
 - **spaCy** [Lithuanian multi-task CNN](https://spacy.io/models/lt) trained on UD Lithuanian ALKSNIS and TokenMill.lt news corpus. Assigns context-specific token vectors, POS tags, dependency parses and named entities. 3 different models and label scheme included in the documentation. 
@@ -54,6 +54,8 @@ TBD
  - **FastText** pre-trained word vectors (2): [bin+text](https://dl.fbaipublicfiles.com/fasttext/vectors-wiki/wiki.lt.zip), [text](https://dl.fbaipublicfiles.com/fasttext/vectors-wiki/wiki.lt.vec) The word vectors where trained on *Wikipedia* using fastText. See documentation at [Fasttext.cc](https://fasttext.cc/docs/en/pretrained-vectors.html)
   - Also available for **Samogitian** language: [bin+text](https://dl.fbaipublicfiles.com/fasttext/vectors-wiki/wiki.bat_smg.zip), [text](https://dl.fbaipublicfiles.com/fasttext/vectors-wiki/wiki.bat_smg.vec)
 
+#### Other
+- [Rasa NLU COVID model](https://github.com/Naktibalda/rasa-koronavirusas) An open-source model for building an AI assistant to help disseminate information about the virus, how to stay safe, and where to seek help.
 
 **[`^        back to top        ^`](#)**
 
