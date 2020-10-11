@@ -25,21 +25,29 @@ TBD
    - Also available for **Latgalian** language: [bin+text](https://dl.fbaipublicfiles.com/fasttext/vectors-wiki/wiki.ltg.zip), [text](https://dl.fbaipublicfiles.com/fasttext/vectors-wiki/wiki.ltg.vec)
 
 
-### Notable researchers working in developing Latvian NLP / NLU tools, datasets and more
-
-**Inguna Skadiņa**  -- [Publications](https://dblp.org/pid/36/8155.html) -- [CV](http://ailab.mii.lu.lv/users/inguna/)
-
-
 ### Relevant organisations working on NLP research, projects and products
 
-**AI Lab** by Latvian University
+- [**AI Lab**](ailab.lv) by Latvian University
 
+#### Notable researchers working in developing Latvian NLP / NLU tools, datasets and more
 
+**Dr. Comp. Sc. Inguna Skadiņa**  -- [Publications](https://dblp.org/pid/36/8155.html) -- [CV](http://ailab.mii.lu.lv/users/inguna/)
 
 
 
 **[`^        back to top        ^`](#)**
+
+
 ## Lithuanian Language
+
+### Datasets
+
+- [ALKSNIS dependency treebank](https://github.com/UniversalDependencies/UD_Lithuanian-ALKSNIS) The Lithuanian dependency treebank ALKSNIS v3.0 (Vytautas Magnus University).
+
+
+
+#### Part-of-Speech tagging and dependency parsing
+- **spaCy** [Lithuanian multi-task CNN](https://spacy.io/models/lt) trained on UD Lithuanian ALKSNIS and TokenMill.lt news corpus. Assigns context-specific token vectors, POS tags, dependency parses and named entities. 3 different models and label scheme included in the documentation. 
 
 #### Word-Embeddings
  - **FastText** pre-trained word vectors: [bin](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.lt.300.bin.gz), [text](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.lt.300.vec.gz) The word vectors where trained on *Common Crawl* and *Wikipedia* using fastText. See documentation at [Fasttext.cc](https://fasttext.cc/docs/en/crawl-vectors.html)
