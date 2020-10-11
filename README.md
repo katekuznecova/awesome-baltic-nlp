@@ -20,7 +20,7 @@ TBD
 #### Word-Embeddings
  - **FastText** pre-trained word vectors (1): [bin](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.lv.300.bin.gz), [text](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.lv.300.vec.gz) The word vectors where trained on *Common Crawl* and *Wikipedia* using fastText. See documentation at [Fasttext.cc](https://fasttext.cc/docs/en/crawl-vectors.html)
  - **FastText** pre-trained word vectors (2): [bin](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.lv.300.bin.gz), [text](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.lv.300.vec.gz) The word vectors where trained on *Wikipedia* using fastText. See documentation at [Fasttext.cc](https://fasttext.cc/docs/en/crawl-vectors.html)
- -- Also available for Latgalian language: [bin+text](), [text]()
+   - Also available for Latgalian language: [bin+text](), [text]()
 
 
 ### Notable researchers working in developing Latvian NLP / NLU tools, datasets and more
