@@ -1,5 +1,10 @@
 # awesome-baltic-nlp
 A collection of resources for Natural Language Programming resources for the Baltic languages (Latvian, Lithuanian and Estonian)
+Table of Contents
+-----------------
+
+-   [Latvian](#Latvian-Language)
+
 
 
 ## Latvian Language
