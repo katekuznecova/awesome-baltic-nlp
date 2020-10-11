@@ -7,6 +7,8 @@ Table of Contents
 -   [Lithuanian Language](#Lithuanian-Language)
 -   [Estonian Language](#Estonian-Language)
 
+## General
+- [fasttext language identification](https://fasttext.cc/docs/en/language-identification.html), includes EE, LT, LV
 
 
 ## Latvian Language
@@ -19,8 +21,8 @@ TBD
 
 #### Word-Embeddings
  - **FastText** pre-trained word vectors (1): [bin](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.lv.300.bin.gz), [text](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.lv.300.vec.gz) The word vectors where trained on *Common Crawl* and *Wikipedia* using fastText. See documentation at [Fasttext.cc](https://fasttext.cc/docs/en/crawl-vectors.html)
- - **FastText** pre-trained word vectors (2): [bin](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.lv.300.bin.gz), [text](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.lv.300.vec.gz) The word vectors where trained on *Wikipedia* using fastText. See documentation at [Fasttext.cc](https://fasttext.cc/docs/en/crawl-vectors.html)
-   - Also available for Latgalian language: [bin+text](), [text]()
+ - **FastText** pre-trained word vectors (2): [bin+text](https://dl.fbaipublicfiles.com/fasttext/vectors-wiki/wiki.lv.zip), [text](https://dl.fbaipublicfiles.com/fasttext/vectors-wiki/wiki.lv.vec) The word vectors where trained on *Wikipedia* using fastText. See documentation at [Fasttext.cc](https://fasttext.cc/docs/en/pretrained-vectors.html)
+   - Also available for Latgalian language: [bin+text](https://dl.fbaipublicfiles.com/fasttext/vectors-wiki/wiki.ltg.zip), [text](https://dl.fbaipublicfiles.com/fasttext/vectors-wiki/wiki.ltg.vec)
 
 
 ### Notable researchers working in developing Latvian NLP / NLU tools, datasets and more
@@ -43,5 +45,13 @@ TBD
  - **FastText** pre-trained word vectors: [bin](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.lt.300.bin.gz), [text](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.lt.300.vec.gz) The word vectors where trained on *Common Crawl* and *Wikipedia* using fastText. See documentation at [Fasttext.cc](https://fasttext.cc/docs/en/crawl-vectors.html)
  - 
 
+
+**[`^        back to top        ^`](#)**
+
+
+## Estonian Language
+
+#### Word-Embeddings
+- **FastText** pre-trained word vectors: [bin](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.et.300.bin.gz), [text](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.et.300.vec.gz) The word vectors where trained on *Common Crawl* and *Wikipedia* using fastText. See documentation at [Fasttext.cc](https://fasttext.cc/docs/en/crawl-vectors.html)
 
 **[`^        back to top        ^`](#)**
