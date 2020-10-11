@@ -3,7 +3,9 @@ A collection of resources for Natural Language Programming resources for the Bal
 Table of Contents
 -----------------
 
--   [Latvian](#Latvian-Language)
+-   [Latvian Language](#Latvian-Language)
+-   [Lithuanian Language](#Lithuanian-Language)
+-   [Estonian Language](#Estonian-Language)
 
 
 
@@ -13,7 +15,7 @@ Table of Contents
 
 TBD
 
-### 123
+### Tools & models
 
 #### Word-Embeddings
  - **FastText** pre-trained word vectors (1): [bin](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.lv.300.bin.gz), [text](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.lv.300.vec.gz) The word vectors where trained on *Common Crawl* and *Wikipedia* using fastText. See documentation at [Fasttext.cc](https://fasttext.cc/docs/en/crawl-vectors.html)
@@ -40,3 +42,6 @@ TBD
 #### Word-Embeddings
  - **FastText** pre-trained word vectors: [bin](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.lt.300.bin.gz), [text](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.lt.300.vec.gz) The word vectors where trained on *Common Crawl* and *Wikipedia* using fastText. See documentation at [Fasttext.cc](https://fasttext.cc/docs/en/crawl-vectors.html)
  - 
+
+
+**[`^        back to top        ^`](#)**
