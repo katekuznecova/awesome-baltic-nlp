@@ -15,7 +15,8 @@ Table of Contents
 
 ### Datasets
 
-TBD
+- [Korpuss.lv - Latviešu valodas korpusu kolekcija](http://www.korpuss.lv/)
+- [Universaldependencies.org UD Latvian LVTB](https://universaldependencies.org/treebanks/lv_lvtb/index.html_ 
 
 ### Tools & models
 
@@ -43,6 +44,7 @@ TBD
 ### Datasets
 
 - [ALKSNIS dependency treebank](https://github.com/UniversalDependencies/UD_Lithuanian-ALKSNIS) The Lithuanian dependency treebank ALKSNIS v3.0 (Vytautas Magnus University).
+
 
 ### Tools and models
 
