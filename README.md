@@ -16,7 +16,7 @@ Table of Contents
 ### Datasets
 
 - [Korpuss.lv - Latviešu valodas korpusu kolekcija](http://www.korpuss.lv/)
-- [Universaldependencies.org UD Latvian LVTB](https://universaldependencies.org/treebanks/lv_lvtb/index.html_ 
+- [Universaldependencies.org UD Latvian LVTB](https://universaldependencies.org/treebanks/lv_lvtb/index.html) 
 
 ### Tools & models
 
